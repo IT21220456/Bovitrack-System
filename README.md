@@ -13,3 +13,8 @@
 
 • Relevance: By lowering the frame rate when necessary, this algorithm ensures uninterrupted live streaming of farm activities, even in low bandwidth scenarios.
 
+3. Video Quality Prediction Model – (ML Model: Random Forest classifier )
+   
+• Purpose: This machine learning model predicts the video quality (e.g., HD, Full HD, 4K) based on real-time streaming conditions, such as network speed and hardware capabilities. It proactively adjusts the video quality to deliver the best possible viewing experience. 
+
+• Relevance: Integrated into the live-streaming functionality, this model enhances the user experience by dynamically adapting to streaming conditions, ensuring clear and uninterrupted monitoring of farm activities. 
