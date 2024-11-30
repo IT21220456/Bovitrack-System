@@ -4,10 +4,10 @@
 
 # 1. Functions
 Function 1
-Model 1 : Behavioral Detection Model
+  Model 1 : Behavioral Detection Model
 
 Function 2
-Model 1
+  Model 1
 
 Function 3
 Model 1 : Health Monitoring Model
