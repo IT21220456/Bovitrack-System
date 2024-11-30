@@ -14,7 +14,6 @@ Model 1 : Health Monitoring Model
 
 Function 4
 Model 1 : environmental conditions detection model
-
 Model 2 : water quality detection model
 
 # 2. API
