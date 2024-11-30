@@ -1,6 +1,5 @@
 # BoviTrack
 
-A brief description of your project.
 
 ## Table of Contents
 1. Functions
