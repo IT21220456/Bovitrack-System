@@ -1,2 +1,2 @@
 # Bovitrack-System
-# Function 1
+# Function 1 - Behavioral Detection
