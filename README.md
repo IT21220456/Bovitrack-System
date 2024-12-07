@@ -75,8 +75,8 @@ A brief description of our project.
 
   #### Model 2:
 
-- **Dataset (Drive or GitHub URL)**: https://github.com/SilverlineIT/bovi-track-ml/blob/main/Function%204/water%20quality%20detection%20model/cow_water_quality_dataset_with_patterns_DR.csv
-- **Final Code (Folder URL)**: https://github.com/SilverlineIT/bovi-track-ml/blob/main/Function%204/water%20quality%20detection%20model/water_Quality_prediction_model-DR_Final.ipynb
+- **Dataset (Drive or GitHub URL)**: https://github.com/IT21220456/Bovitrack-System/blob/main/Function%204/water%20quality%20detection%20model/cow_water_quality_dataset_with_patterns_DR.csv
+- **Final Code (Folder URL)**: https://github.com/IT21220456/Bovitrack-System/blob/main/Function%204/water%20quality%20detection%20model/water_Quality_prediction_model-DR_Final.ipynb
 - **Use Technologies and Model**: XGBoost classifier 
 - **Model Target**: suitable
 - **Model Features**: pH,TDS,Temperature
