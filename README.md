@@ -12,6 +12,13 @@ Member 1
     - Member ID - IT21213908
     - Member email - it21213908@my.sliit.lk
 
+
+Member 2
+
+    - Member Name - Wijesekara S.P.
+    - Member ID - IT21220456
+    - Member email - it21220456@my.sliit.lk
+
 ## Table of Contents
 1. Functions
     -  Function 1
