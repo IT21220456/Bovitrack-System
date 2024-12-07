@@ -11,13 +11,15 @@ Member 1
     - Member Name - Samaranayaka S.G.H.V
     - Member ID - IT21213908
     - Member email - it21213908@my.sliit.lk
-
+    - Function 1 - Monitor Animal Behavior
+ 
 
 Member 2
 
     - Member Name - Wijesekara S.P.
     - Member ID - IT21220456
     - Member email - it21220456@my.sliit.lk
+    
 
 
 Member 3
