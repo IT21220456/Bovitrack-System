@@ -27,10 +27,10 @@ Monitors farm conditions (e.g., temperature, humidity, water quality) and classi
 Incorporates predictive analytics to foresee potential disease risks and environmental anomalies.
 
 ## Benefits:
-    1. Early detection of diseases and environmental risks.
-    2. Improved animal welfare and dairy productivity.
-    3. Cost-effective and sustainable farm management.
-    4. Real-time, scalable, and user-friendly solutions.
+1. Early detection of diseases and environmental risks.
+2. Improved animal welfare and dairy productivity.
+3. Cost-effective and sustainable farm management.
+4. Real-time, scalable, and user-friendly solutions.
 
 
 ## Project Details
