@@ -1,13 +1,15 @@
 # BoviTrack
 
-A brief description of your project.
+A brief description of our project.
 
 ## Table of Contents
 1. Functions
     -  Function 1
         -  Model 1 : Behavioral Detection Model
     -  Function 2
-        -  Model 1
+        -  Model 1 : Video_Quality_Prediction_Model
+        -  Algorithm 1 : Dynamic Video Resolution Adjustment Algorithm
+        -  Algorithm 2 : Frame Rate Reduction Algorithm for Live Streaming
     -  Function 3
         -  Model 1 : Health Monitoring Model
     -  Function 4
