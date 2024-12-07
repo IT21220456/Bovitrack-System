@@ -1,6 +1,37 @@
 # BoviTrack
 
-A brief description of our project.
+## Project Description 
+
+"Bovitrack" is an IoT-based livestock monitoring and management system tailored to enhance dairy farming efficiency. This innovative project integrates advanced technologies to optimize key aspects of livestock management, including behavioral analysis, health monitoring, environmental condition assessment, and real-time data management. The project aims to enhance cattle welfare, productivity, and overall farm operations through intelligent, data-driven solutions.
+
+Key Functional Components:
+
+## 1. Animal Behavior Monitoring
+
+Uses machine learning models like YOLOv8 for real-time behavior analysis (e.g., eating, lying, standing) from video streams.
+Implements a novel heat detection device with GPS and pressure sensors for efficient breeding management.
+
+## 2. Smart Live stream Optimization and Monitoring
+
+Ensures smooth video feeds for farm monitoring by dynamically adjusting video resolution and frame rates based on network conditions.
+Employs predictive models and algorithms for bandwidth optimization and uninterrupted monitoring.
+
+## 3. Health Monitoring identifies input parameters
+
+Introduces a wearable sensor system to track key health parameters (e.g., temperature, ECG, blood oxygen levels).
+Utilizes machine learning algorithms for early disease detection and health risk predictions, achieving up to 94% accuracy with models like Random Forest.
+
+## 4. Environmental Condition analysis and Disease risk assessment
+
+Monitors farm conditions (e.g., temperature, humidity, water quality) and classifies environmental health using machine learning models.
+Incorporates predictive analytics to foresee potential disease risks and environmental anomalies.
+
+## Benefits:
+    1. Early detection of diseases and environmental risks.
+    2. Improved animal welfare and dairy productivity.
+    3. Cost-effective and sustainable farm management.
+    4. Real-time, scalable, and user-friendly solutions.
+
 
 ## Project Details
 ## Project ID - 24-25J-008
