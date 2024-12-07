@@ -55,8 +55,8 @@ A brief description of our project.
 ### Function 3:
 #### Model 1:
 
-- **Dataset (Drive or GitHub URL)**: https://github.com/SilverlineIT/bovi-track-ml/blob/main/Function%203/Health%20Monitoring%20Model/synthetic_cow_health_data.csv
-- **Final Code (Folder URL)**: https://github.com/SilverlineIT/bovi-track-ml/blob/main/Function%203/Health%20Monitoring%20Model/Cows_Diseases_Detection_Model%20.ipynb
+- **Dataset (Drive or GitHub URL)**: https://github.com/IT21220456/Bovitrack-System/blob/main/Function%203/synthetic_cow_health_data%20(1).csv
+- **Final Code (Folder URL)**: https://github.com/IT21220456/Bovitrack-System/blob/main/Function%203/Cows_Diseases_Detection_Model%20%20(1).ipynb
 - **Use Technologies and Model**: XGBoost classifier
 - **Model Target**: disease
 - **Model Features**: temperature, blood_pressure, blood_oxygen	
