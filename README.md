@@ -76,15 +76,19 @@ Project Member Details
 1. Functions
     -  Function 1
         -  Model 1 : Behavioral Detection Model
+          
     -  Function 2
         -  Model 1 : Video_Quality_Prediction_Model
         -  Algorithm 1 : Dynamic Video Resolution Adjustment Algorithm
         -  Algorithm 2 : Frame Rate Reduction Algorithm for Live Streaming
+          
     -  Function 3
         -  Model 1 : Health Monitoring Model
+          
     -  Function 4
         -  Model 1 : environmental conditions detection model
         -  Model 2 : water quality detection model
+          
 2. API
 3. How to Setup
 
