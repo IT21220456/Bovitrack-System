@@ -41,7 +41,7 @@ Incorporates predictive analytics to foresee potential disease risks and environ
 
 ## Member 1
 
-    - Member Name - Samaranayaka S.G.H.V
+    - Member Name - Samaranayake S.G.H.V
     - Member ID - IT21213908
     - Member email - it21213908@my.sliit.lk
     - Function 1 - Monitor Animal Behavior
