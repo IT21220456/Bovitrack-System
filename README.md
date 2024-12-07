@@ -116,4 +116,3 @@ A brief description of our project.
     ```bash
     fastapi dev main.py
     ```
-Feel free to modify this template to better fit your project's specifics and structure!
