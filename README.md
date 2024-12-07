@@ -4,6 +4,10 @@ A brief description of our project.
 
 ## Project Details
 Project ID - 24-25J-008
+Project Member Details
+    - Member Name - Samaranayaka S.G.H.V
+    - Member ID - IT21213908
+    - Member email - it21213908@my.sliit.lk
 
 ## Table of Contents
 1. Functions
