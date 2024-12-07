@@ -10,7 +10,7 @@ Key Functional Components:
 
 ## 1. Animal Behavior Monitoring
 
-Uses machine learning models like YOLOv8 for real-time behavior analysis (e.g., eating, lying, standing) from live video streams.
+Uses machine learning models like YOLOv8 for real-time behavior analysis (e.g., eating, lying, standing) from live video stream.
 Implements a novel HEAT detection device with GPS and pressure sensors for efficient breeding management.
 
 ## 2. Smart Live stream Optimization and Monitoring
