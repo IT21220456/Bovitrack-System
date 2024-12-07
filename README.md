@@ -50,6 +50,17 @@ A brief description of our project.
 - **Final Code (Folder URL)**: https://github.com/IT21220456/Bovitrack-System/blob/main/Function%202/Frame_rate_reducer_algorithm%20(1).ipynb
 - **perpose**: intelligently reduces the frame rate of live-streamed videos to optimize bandwidth usage while preserving essential visual information. It balances the trade-off between smooth streaming and data transmission efficiency.
 
+### Function 3:
+#### Model 1:
+
+- **Dataset (Drive or GitHub URL)**: https://github.com/SilverlineIT/bovi-track-ml/blob/main/Function%203/Health%20Monitoring%20Model/synthetic_cow_health_data.csv
+- **Final Code (Folder URL)**: https://github.com/SilverlineIT/bovi-track-ml/blob/main/Function%203/Health%20Monitoring%20Model/Cows_Diseases_Detection_Model%20.ipynb
+- **Use Technologies and Model**: XGBoost classifier
+- **Model Target**: disease
+- **Model Features**: temperature, blood_pressure, blood_oxygen	
+- **Accuracy**: 0.94
+
+
   
 ## 2. API
 
