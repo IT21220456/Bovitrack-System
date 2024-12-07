@@ -27,7 +27,7 @@ A brief description of our project.
 #### Model 1: 
 
 - **Dataset (Drive or GitHub URL)**:  https://universe.roboflow.com/different-4qull/cows_movement_and_behaviours-cehrf/dataset/2#
-- **Final Code (Folder URL)**: https://github.com/SilverlineIT/bovi-track-ml/blob/main/Function%201/Behavior%20Detection%20Mode/Behavior_monitoring_model_testing_with_bit_rate_Controling.ipynb
+- **Final Code (Folder URL)**: https://github.com/IT21220456/Bovitrack-System/blob/main/Function%201/Behavior_monitoring_model_testing_with_bit_rate_Controling.ipynb
 - **Use Technologies and Model**: YOLO
 
 ### Function 2:
