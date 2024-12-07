@@ -35,6 +35,8 @@ Member 4
     - Member Name - Fernando W.W.S.T
     - Member ID - IT21307362
     - Member email - it21307362@my.sliit.lk
+    - Function 4 - Environmental Condition analysis and Disease risk assessment
+
 
 
 ## Table of Contents
