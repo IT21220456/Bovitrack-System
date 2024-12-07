@@ -30,6 +30,7 @@ A brief description of our project.
 - **Final Code (Folder URL)**: https://github.com/IT21220456/Bovitrack-System/blob/main/Function%201/Behavior_monitoring_model_testing_with_bit_rate_Controling.ipynb
 - **Use Technologies and Model**: YOLO
 
+
 ### Function 2:
 #### Model 1:
 
@@ -50,6 +51,7 @@ A brief description of our project.
 - **Final Code (Folder URL)**: https://github.com/IT21220456/Bovitrack-System/blob/main/Function%202/Frame_rate_reducer_algorithm%20(1).ipynb
 - **perpose**: intelligently reduces the frame rate of live-streamed videos to optimize bandwidth usage while preserving essential visual information. It balances the trade-off between smooth streaming and data transmission efficiency.
 
+
 ### Function 3:
 #### Model 1:
 
@@ -61,6 +63,26 @@ A brief description of our project.
 - **Accuracy**: 0.94
 
 
+### Function 4:
+#### Model 1:
+
+- **Dataset (Drive or GitHub URL)**: https://github.com/SilverlineIT/bovi-track-ml/blob/main/Function%204/environmental%20conditions%20detection%20model/Nuwaraeliya_c_data.csv
+- **Final Code (Folder URL)**: https://github.com/SilverlineIT/bovi-track-ml/blob/main/Function%204/environmental%20conditions%20detection%20model/environmental%20conditions%20detection%20model%20V1.ipynb
+- **Use Technologies and Model**: XGBoost classifier
+- **Model Target**: Condition
+- **Model Features**: temperature , humidity	
+- **Accuracy**: 0.996
+
+  #### Model 2:
+
+- **Dataset (Drive or GitHub URL)**: https://github.com/SilverlineIT/bovi-track-ml/blob/main/Function%204/water%20quality%20detection%20model/cow_water_quality_dataset_with_patterns_DR.csv
+- **Final Code (Folder URL)**: https://github.com/SilverlineIT/bovi-track-ml/blob/main/Function%204/water%20quality%20detection%20model/water_Quality_prediction_model-DR_Final.ipynb
+- **Use Technologies and Model**: XGBoost classifier 
+- **Model Target**: suitable
+- **Model Features**: pH,TDS,Temperature
+- **Accuracy**: 0.997
+
+  
   
 ## 2. API
 
