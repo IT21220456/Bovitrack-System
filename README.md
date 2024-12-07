@@ -33,8 +33,8 @@ A brief description of our project.
 ### Function 2:
 #### Model 1:
 
-- **Dataset (Drive or GitHub URL)**: https://github.com/SilverlineIT/bovi-track-ml/blob/main/function%202/video_quality_prediction_dataset.csv
-- **Final Code (Folder URL)**: https://github.com/SilverlineIT/bovi-track-ml/blob/main/function%202/Video_Quality_Prediction_Model-with-CMs.ipynb
+- **Dataset (Drive or GitHub URL)**: https://github.com/IT21220456/Bovitrack-System/blob/main/Function%202/video_quality_prediction_dataset.csv
+- **Final Code (Folder URL)**: https://github.com/IT21220456/Bovitrack-System/blob/main/Function%202/Video_Quality_Prediction_Model-with-CMs.ipynb
 - **Use Technologies and Model**: Decision Tree classifier 
 - **Model Target**: Predicted_Video_Quality
 - **Model Features**: Connection_Speed (Mbps), Video_Resolution (p), Video_FPS, Buffering_Rate (s)
@@ -42,12 +42,12 @@ A brief description of our project.
 
 #### Algorithm 1:
 
-- **Final Code (Folder URL)**: https://github.com/SilverlineIT/bovi-track-ml/blob/main/Function%201/Behavior%20Detection%20Mode/Behavior_monitoring_model_testing_with_bit_rate_Controling.ipynb
+- **Final Code (Folder URL)**: https://github.com/IT21220456/Bovitrack-System/blob/main/Function%201/Behavior_monitoring_model_testing_with_bit_rate_Controling.ipynb
 - **perpose**: dynamically adjusts video resolution based on the available internet speed to optimize video processing for the YOLO model.
 
 #### Algorithm 2:
 
-- **Final Code (Folder URL)**: https://github.com/SilverlineIT/bovi-track-ml/blob/main/function%202/Frame_rate_reducer_algorithm%20(1).ipynb
+- **Final Code (Folder URL)**: https://github.com/IT21220456/Bovitrack-System/blob/main/Function%202/Frame_rate_reducer_algorithm%20(1).ipynb
 - **perpose**: intelligently reduces the frame rate of live-streamed videos to optimize bandwidth usage while preserving essential visual information. It balances the trade-off between smooth streaming and data transmission efficiency.
 
   
