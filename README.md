@@ -19,7 +19,7 @@ Member 2
     - Member Name - Wijesekara S.P.
     - Member ID - IT21220456
     - Member email - it21220456@my.sliit.lk
-    
+    - Function 2 - Smart Live stream Optimization and Monitoring
 
 
 Member 3
