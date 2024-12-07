@@ -17,7 +17,6 @@ A brief description of our project.
         -  Model 2 : water quality detection model
 2. API
 3. How to Setup
-4. Others
 
 ---
 
