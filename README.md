@@ -31,7 +31,6 @@ A brief description of our project.
 - **Use Technologies and Model**: YOLO
 - **Model Target**: Behavior
 - **Model Features**: Eating, Lying, Standing
-- **Accuracy**: 0.95
 
 
 ### Function 2:
