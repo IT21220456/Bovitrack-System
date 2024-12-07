@@ -6,7 +6,7 @@ A brief description of our project.
 ## Project ID - 24-25J-008
 Project Member Details
 
-Member 1
+## Member 1
 
     - Member Name - Samaranayaka S.G.H.V
     - Member ID - IT21213908
@@ -14,7 +14,7 @@ Member 1
     - Function 1 - Monitor Animal Behavior
  
 
-Member 2
+## Member 2
 
     - Member Name - Wijesekara S.P.
     - Member ID - IT21220456
@@ -22,7 +22,7 @@ Member 2
     - Function 2 - Smart Live stream Optimization and Monitoring
 
 
-Member 3
+## Member 3
 
     - Member Name - Tharuka G.A.K
     - Member ID - IT21221514
@@ -30,7 +30,7 @@ Member 3
     - Function 3 - Health Monitoring identifies input parameters
 
 
-Member 4
+## Member 4
 
     - Member Name - Fernando W.W.S.T
     - Member ID - IT21307362
