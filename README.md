@@ -18,6 +18,7 @@ A brief description of our project.
 2. API
 3. How to Setup
 
+
 ---
 
 ## 1. Functions
@@ -26,50 +27,8 @@ A brief description of our project.
 #### Model 1: 
 
 - **Dataset (Drive or GitHub URL)**:  https://universe.roboflow.com/different-4qull/cows_movement_and_behaviours-cehrf/dataset/2#
-- **Final Code (Folder URL)**: 
-- **Use Technologies and Model**: 
-- **Model Label**: 
-- **Model Features**: 
-- **Model (GitHub or Drive URL)**:
-- **Tokenizer (GitHub or Drive URL)**:
-- **Scaler (GitHub or Drive URL)**: 
-- **Accuracy**:
-- **How to Load and Get Prediction for One Input**:
-    ```python
-    import joblib
-
-    model = joblib.load('models/linear_regression.pkl')
-    scaler = joblib.load('scalers/scaler.pkl')
-
-    input_data = [[2500, 4, 'Suburban']]
-    scaled_data = scaler.transform(input_data)
-    prediction = model.predict(scaled_data)
-    print("Predicted Price:", prediction)
-    ```
-
-#### Model 2: 
-
-- **Dataset (Drive or GitHub URL)**: 
-- **Final Code (Folder URL)**: 
-- **Use Technologies and Model**: 
-- **Model Label**: 
-- **Model Features**: 
-- **Model (GitHub or Drive URL)**:
-- **Tokenizer (GitHub or Drive URL)**:
-- **Scaler (GitHub or Drive URL)**: 
-- **Accuracy**:
-- **How to Load and Get Prediction for One Input**:
-    ```python
-    import joblib
-
-    model = joblib.load('models/linear_regression.pkl')
-    scaler = joblib.load('scalers/scaler.pkl')
-
-    input_data = [[2500, 4, 'Suburban']]
-    scaled_data = scaler.transform(input_data)
-    prediction = model.predict(scaled_data)
-    print("Predicted Price:", prediction)
-    ```
+- **Final Code (Folder URL)**: https://github.com/SilverlineIT/bovi-track-ml/blob/main/Function%201/Behavior%20Detection%20Mode/Behavior_monitoring_model_testing_with_bit_rate_Controling.ipynb
+- **Use Technologies and Model**: YOLO
 
 ### Function 2:
 #### Model 2:
