@@ -26,6 +26,14 @@ Member 3
     - Member ID - IT21221514
     - Member email - it21221514@my.sliit.lk
 
+
+Member 4
+
+    - Member Name - Fernando W.W.S.T
+    - Member ID - IT21307362
+    - Member email - it21307362@my.sliit.lk
+
+
 ## Table of Contents
 1. Functions
     -  Function 1
