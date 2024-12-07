@@ -66,8 +66,8 @@ A brief description of our project.
 ### Function 4:
 #### Model 1:
 
-- **Dataset (Drive or GitHub URL)**: https://github.com/SilverlineIT/bovi-track-ml/blob/main/Function%204/environmental%20conditions%20detection%20model/Nuwaraeliya_c_data.csv
-- **Final Code (Folder URL)**: https://github.com/SilverlineIT/bovi-track-ml/blob/main/Function%204/environmental%20conditions%20detection%20model/environmental%20conditions%20detection%20model%20V1.ipynb
+- **Dataset (Drive or GitHub URL)**: https://github.com/IT21220456/Bovitrack-System/blob/main/Function%204/environmental%20conditions%20detection%20model/Nuwaraeliya_c_data%20(1).csv
+- **Final Code (Folder URL)**: https://github.com/IT21220456/Bovitrack-System/blob/main/Function%204/environmental%20conditions%20detection%20model/environmental%20conditions%20detection%20model%20V1%20(1).ipynb
 - **Use Technologies and Model**: XGBoost classifier
 - **Model Target**: Condition
 - **Model Features**: temperature , humidity	
