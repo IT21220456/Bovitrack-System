@@ -60,7 +60,7 @@ Incorporates predictive analytics to foresee potential disease risks and environ
     - Member Name - Tharuka G.A.K
     - Member ID - IT21221514
     - Member email - it21221514@my.sliit.lk
-    - Function 3 - Health Monitoring identifies input parameters
+    - Function 3 - Animal health monitoring 
 
 
 ## Member 4
