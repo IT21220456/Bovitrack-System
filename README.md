@@ -1,5 +1,7 @@
 # BoviTrack
 
+## Project ID - 24-25J-008
+
 ## Project Description 
 
 "Bovitrack" is an IoT-based livestock monitoring and management system tailored to enhance dairy farming efficiency. This innovative project integrates advanced technologies to optimize key aspects of livestock management, including behavioral analysis, health monitoring, environmental condition assessment, and real-time data management. The project aims to enhance cattle welfare, productivity, and overall farm operations through intelligent, data-driven solutions.
@@ -34,10 +36,7 @@ Incorporates predictive analytics to foresee potential disease risks and environ
 
 
 
-## Project Details
-
-## Project ID - 24-25J-008
-Project Member Details
+## Project Member Details
 
 ## Member 1
 
