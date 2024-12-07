@@ -33,6 +33,7 @@ Incorporates predictive analytics to foresee potential disease risks and environ
 4. Real-time, scalable, and user-friendly solutions.
 
 
+
 ## Project Details
 ## Project ID - 24-25J-008
 Project Member Details
