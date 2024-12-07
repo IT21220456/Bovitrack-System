@@ -19,6 +19,13 @@ Member 2
     - Member ID - IT21220456
     - Member email - it21220456@my.sliit.lk
 
+
+Member 3
+
+    - Member Name - Tharuka G.A.K
+    - Member ID - IT21221514
+    - Member email - it21221514@my.sliit.lk
+
 ## Table of Contents
 1. Functions
     -  Function 1
